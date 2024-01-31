@@ -7,7 +7,7 @@ Computer Vision Engineer
 Specializing in computer vision, machine learning, and deep learning, I am deeply engaged in a variety of AI-related projects, always exploring innovative applications of these technologies. My strong foundation in artificial intelligence drives my enthusiasm for uncovering AI's capabilities in real-world contexts. Committed to making substantial contributions to the AI domain, I actively engage in experimenting with novel ideas and participating in collaborative endeavors, particularly in the realms of computer vision and AI-driven image processing.
 
 * 🌍  I'm based in Neptune
-<--* ✉️  You can contact me at [rdxesss@gmail.com](mailto:rdxesss@gmail.com) -->
+<!--* ✉️  You can contact me at [rdxesss@gmail.com](mailto:rdxesss@gmail.com) -->
 * 🧠  I'm learning Transformer Models, Advanced Deep Learning Techniques, and Innovative Tools in Computer Vision.
 * 🤝  I'm open to collaborating on AI, Machine Learning, Deep Learning, and Computer Vision Projects
 
