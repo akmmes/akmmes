@@ -1,30 +1,91 @@
-Hi 👋 My name is akmmes
-=======================
+<div align="center">
 
-Computer Vision Engineer
-------------------------
+# Hi 👋 My name is akmmes
 
-Specializing in computer vision, machine learning, and deep learning, I am deeply engaged in a variety of AI-related projects, always exploring innovative applications of these technologies. My strong foundation in artificial intelligence drives my enthusiasm for uncovering AI's capabilities in real-world contexts. Committed to making substantial contributions to the AI domain, I actively engage in experimenting with novel ideas and participating in collaborative endeavors, particularly in the realms of computer vision and AI-driven image processing.
+### Computer Vision Engineer · AI Builder · Deep Learning Explorer
 
-* 🌍  I'm based in Neptune
-<!--* ✉️  You can contact me at [rdxesss@gmail.com](mailto:rdxesss@gmail.com) -->
-* 🧠  I'm learning Transformer Models, Advanced Deep Learning Techniques, and Innovative Tools in Computer Vision.
-* 🤝  I'm open to collaborating on AI, Machine Learning, Deep Learning, and Computer Vision Projects
+> Mobties :P
 
-### Skills
+[![Profile views](https://komarev.com/ghpvc/?username=akmmes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akmmes)
+[![GitHub followers](https://img.shields.io/github/followers/akmmes?label=Followers&style=flat&logo=github)](https://github.com/akmmes?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/akmmes?label=Stars&style=flat&logo=github)](https://github.com/akmmes?tab=repositories)
 
+</div>
+
+## About me
+
+I build practical AI systems with a focus on **computer vision**, **deep learning**, and
+**medical image understanding**. I enjoy turning research ideas into working experiments,
+comparing modern architectures, and exploring how intelligent systems can solve real-world
+problems.
+
+- 🌍  I'm based in Neptune
+- 🧠 I'm learning transformer models, advanced deep learning techniques, and new computer vision tools
+- 🔬 I explore image classification, segmentation, self-attention, and vision transformers
+- 🤖 I also build applied AI projects that connect models to real devices
+- 🤝 I'm open to collaborating on AI, machine learning, deep learning, and computer vision projects
+
+## What I work on
+
+| Area | Interests |
+|---|---|
+| 👁️ Computer Vision | Classification, segmentation, representation learning, and visual recognition |
+| 🩻 Medical AI | CT and X-ray analysis, model comparison, and interpretable experiments |
+| 🧠 Deep Learning | CNNs, vision transformers, self-attention, PyTorch, and TensorFlow |
+| 🛠️ Applied AI | Voice assistants, grounded LLMs, edge devices, and practical prototypes |
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akmmes/nova-alexa-ai-assistant">🤖 Nova Alexa AI Assistant</a></h3>
+      <p>A Gemini-powered conversational assistant for Amazon Echo, grounded with Wikipedia and Tavily search.</p>
+      <p><code>Python</code> <code>Gemini</code> <code>Alexa</code> <code>RAG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akmmes/Medical-Image-Classification-using-Vision-Transformers-for-CT-and-X-ray-Images">🩻 Medical Image Classification</a></h3>
+      <p>Vision Transformer experiments for classifying CT and X-ray medical images.</p>
+      <p><code>Vision Transformers</code> <code>Medical AI</code> <code>Jupyter</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akmmes/Sign-Language-Recognition-Using-DINO-s-Self-Attention-Mechanism">🤟 Sign Language Recognition</a></h3>
+      <p>Recognition of micro and macro gesture features using DINO self-attention.</p>
+      <p><code>DINO</code> <code>Self-Attention</code> <code>Computer Vision</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/akmmes/MHealth-Classification-Segmentation-of-COVID-19-using-Deep-Learning-Architectures">🧬 COVID-19 Classification & Segmentation</a></h3>
+      <p>A comparison of deep learning architectures for medical image classification and segmentation.</p>
+      <p><code>Segmentation</code> <code>Deep Learning</code> <code>Healthcare</code></p>
+    </td>
+  </tr>
+</table>
+
+## Tech stack
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,aws,gcp,linux,apple,arduino,raspberrypi,git,github&perline=13" alt="Python, C++, PyTorch, TensorFlow, OpenCV, AWS, Google Cloud, Linux, macOS, Arduino, Raspberry Pi, Git and GitHub" />
 </p>
 
+## GitHub activity
 
-### Socials
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akmmes&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="akmmes GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmmes&layout=compact&theme=transparent&hide_border=true" alt="akmmes most-used languages" />
+</div>
 
-<p align="left"> <a href="https://www.github.com/akmmes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## Explore and connect
 
-### Badges
+- 📂 [Browse all of my repositories](https://github.com/akmmes?tab=repositories)
+- ⭐ If a project helps you, consider starring it
+- 💬 Open an issue in the relevant repository to discuss an idea or collaboration
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<a href="http://www.github.com/akmmes"><img src="https://github-readme-stats.vercel.app/api?username=akmmes&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=f97316&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="akmmes's GitHub stats" /></a>
+### Building, experimenting, and learning—one project at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-akmmes-181717?style=for-the-badge&logo=github)](https://github.com/akmmes)
+
+</div>
