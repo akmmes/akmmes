@@ -4,7 +4,6 @@
 
 ### Computer Vision Engineer · AI Builder · Deep Learning Explorer
 
-> Mobties :P
 
 [![Profile views](https://komarev.com/ghpvc/?username=akmmes&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akmmes)
 [![GitHub followers](https://img.shields.io/github/followers/akmmes?label=Followers&style=flat&logo=github)](https://github.com/akmmes?tab=followers)
